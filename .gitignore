@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets / environment
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Misc
+*.swp
+
+# Keep safe example env files
+!**/.env.example
