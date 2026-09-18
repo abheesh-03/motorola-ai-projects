@@ -1,4 +1,4 @@
-# Motorola AI Projects
+# android-ai-assistant
 
 Hands-on projects focused on mobile AI, Android engineering, backend integration, and production-minded AI systems.
 
